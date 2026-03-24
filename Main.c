@@ -1,5 +1,5 @@
 добавил в ветке в начале и
-int a:
+int b:
 //fnfnfn 
 sdc
 bublikjfdsfv
